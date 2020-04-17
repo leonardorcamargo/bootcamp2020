@@ -27,7 +27,7 @@ class CreateAppointmentService {
       date: appointmentDate,
     });
   }
-  console.log('teste')
+  console.log('teste');
 }
 
 export default CreateAppointmentService;
