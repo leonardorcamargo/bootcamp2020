@@ -31,7 +31,7 @@ class AppointmentsRepository {
   public all(): Appointment[] {
     return this.appointments;
   }
-  console.log('teste')
+  console.log('teste');
 }
 
 export default AppointmentsRepository;
