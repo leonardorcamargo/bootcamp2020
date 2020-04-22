@@ -1,3 +1,6 @@
 [submodule "week-2/week-2/gostack-fundamentos-node"]
 	path = week-2/week-2/gostack-fundamentos-node
 	url = git@github.com:leonardorcamargo/gostack-fundamentos-node.git
+[submodule "week-2/gostack-typeorm-upload"]
+	path = week-2/gostack-typeorm-upload
+	url = git@github.com:leonardorcamargo/gostack-typeorm-upload.git
