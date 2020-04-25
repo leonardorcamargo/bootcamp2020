@@ -1,6 +1,19 @@
-[submodule "week-2/week-2/gostack-fundamentos-node"]
-	path = week-2/week-2/gostack-fundamentos-node
+[submodule "week-1/gostack-conceitos-nodejs"]
+	path = week-1/gostack-conceitos-nodejs
+	url = git@github.com:leonardorcamargo/gostack-conceitos-nodejs.git
+
+[submodule "week-1/gostack-conceitos-react-native"]
+	path = week-1/gostack-conceitos-react-native
+	url = git@github.com:leonardorcamargo/gostack-conceitos-react-native.git
+
+[submodule "week-1/gostack-conceitos-reactjs"]
+	path = week-1/gostack-conceitos-reactjs
+	url = git@github.com:leonardorcamargo/gostack-conceitos-reactjs.git
+
+[submodule "week-2/gostack-fundamentos-node"]
+	path= week-2/gostack-fundamentos-node
 	url = git@github.com:leonardorcamargo/gostack-fundamentos-node.git
+
 [submodule "week-2/gostack-typeorm-upload"]
 	path = week-2/gostack-typeorm-upload
 	url = git@github.com:leonardorcamargo/gostack-typeorm-upload.git
