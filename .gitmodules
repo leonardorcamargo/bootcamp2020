@@ -17,3 +17,6 @@
 [submodule "week-2/gostack-typeorm-upload"]
 	path = week-2/gostack-typeorm-upload
 	url = git@github.com:leonardorcamargo/gostack-typeorm-upload.git
+[submodule "week-3/gostack-fundamentos-reactjs"]
+	path = week-3/gostack-fundamentos-reactjs
+	url = git@github.com:leonardorcamargo/gostack-fundamentos-reactjs
